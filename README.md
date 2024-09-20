@@ -22,9 +22,9 @@ Hello! I'm Noor, a Computer Science student passionate about software developmen
 ### Minecraft Mod
 **Technologies:** Java, Minecraft Forge, JSON, Git  
 **Features:**
-- Custom in-game items, including swords, armor, and clothing.
-- Utilized object-oriented programming for item properties.
-- Managed assets with JSON files for seamless integration.
+ Custom in-game items, including swords, armor, and clothing.
+ Utilized object-oriented programming for item properties.
+ Managed assets with JSON files for seamless integration.
 
 ## Get in Touch
 Feel free to connect with me on [LinkedIn](www.linkedin.com/in/nooraissat) or check out my other projects on [GitHub](https://github.com/NoorAissat)!
