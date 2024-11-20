@@ -1,6 +1,6 @@
 # Welcome to My GitHub Profile!
 
-Hello! I'm Noor, a Computer Science student passionate about software development. Below are some of the projects I've been working on:
+Hello! I'm Noor, a Computer Science student with a concentration in Cyber and Network Security. I am passionate about software development, particularly in the areas of networking and cybersecurity. Below are some of the projects I've been working on:
 
 ## Projects
 
