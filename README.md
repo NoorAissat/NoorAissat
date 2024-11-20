@@ -4,13 +4,13 @@ Hello! I'm Noor, a Computer Science student passionate about software developmen
 
 ## Projects
 
-### FitTracker
-**Technologies:** JavaScript, React, MongoDB, Node.js, Express  
+### Packet Sniffer
+**Technologies:** Python, Scapy, Colorama  
 **Features:**  
-- Full-stack fitness application with secure user authentication (JWT).
-- Dashboard for creating and editing workout plans.
-- Progress tracking with interactive graphs and filtering options.
-- RESTful APIs for efficient user data management.
+- Real-time packet sniffing on a specified network interface using Scapy.
+- Captures HTTP requests and extracts potential usernames and passwords from unencrypted traffic.
+- Provides insight into network security vulnerabilities by monitoring raw packet data.
+- Easy to use with command-line arguments for interface selection.
 
 ### Live Chat Room
 **Technologies:** Java, JavaScript, Spring Boot  
@@ -21,10 +21,10 @@ Hello! I'm Noor, a Computer Science student passionate about software developmen
 
 ### Minecraft Mod
 **Technologies:** Java, Minecraft Forge, JSON, Git  
-*Features:* 
+**Features:**  
 - Custom in-game items, including swords, armor, and clothing.
 - Utilized object-oriented programming for item properties.
 - Managed assets with JSON files for seamless integration.
 
 ## Get in Touch
-Feel free to connect with me on [LinkedIn](www.linkedin.com/in/nooraissat) or check out my other projects on [GitHub](https://github.com/NoorAissat)!
+Feel free to connect with me on [LinkedIn](www.linkedin.com/in/nooraissat)
