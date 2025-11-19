@@ -4,6 +4,15 @@ Hello! I'm Noor, a Computer Science student with a concentration in Cyber and Ne
 
 ## Projects
 
+### Network Automation Dashboard
+**Technologies:** Python (FastAPI, Paramiko), React, Tailwind CSS, SSH Automation  
+**Features:**  
+- Full-stack dashboard for monitoring system health, service status, and WireGuard VPN metrics on my Linux server.  
+- FastAPI backend retrieves real-time CPU, memory, disk, and service data through secure SSH automation.  
+- Responsive React frontend displays system metrics using interactive cards and detailed log views.  
+- Includes automated configuration backups and drift-detection for critical network and system files.
+
+
 ### Packet Sniffer
 **Technologies:** Python, Scapy, Colorama  
 **Features:**  
